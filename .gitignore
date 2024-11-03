@@ -20,8 +20,6 @@
 .venv
 __pycache__/
 
-# production
-
 # misc
 .DS_Store
 *.pem
