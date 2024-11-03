@@ -4,7 +4,7 @@ import './index.css';
 import Browser from 'webextension-polyfill';
 import { Settings, Github } from 'lucide-react';
 
-const VERSION = "Version: 1.2.5";
+const VERSION = "Version: 1.0.0";
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
